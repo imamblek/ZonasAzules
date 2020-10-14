@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zonas Azules</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="zona">zona</string>
+    <string name="Cerdeña">Cerdeña, Italia </string>
+    <string name="Okinawa">La isla de Okinawa, Japón</string>
+    <string name="Loma_Linda">Loma Linda, California</string>
+    <string name="Nicoya">Nicoya, Costa Rica</string>
+    <string name="Icaria">La isla de Icaria, Grecia</string>
+    <string name="comentario">Las zonas azules son lugares en el mundo donde se encuentran las personas más longevas que superan los 100 años de edad. Estas regiones fueron identificadas por los científicos y demógrafos que han encontrado que las características específicas locales y las prácticas dan lugar a una alta incidencia de casos de longevidad. Probablemente la denominación fue usada por primera vez en un artículo científico de un equipo de demógrafos que investigaron los centenarios de Cerdeña, en 2004.</string>
+    <string name="introduccion">Selecciona una para conocer su ubicacion en el mapa:</string>
+
+
+</resources>
